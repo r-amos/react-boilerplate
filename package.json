@@ -1,7 +1,7 @@
 {
-  "name": "github-issues",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "GitHub Issue Viewer",
+  "description": "Simple React Application configuration",
   "main": "index.html",
   "scripts": {
     "test": "jest",
