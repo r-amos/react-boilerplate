@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "pretty": true,
+        "skipLibCheck": true,
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true,
+        "module": "ES6"
+    }
+  }

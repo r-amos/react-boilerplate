@@ -1,0 +1,12 @@
+* {
+    background-color: lighten($color: #000000, $amount: 50%);
+    color: white;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
